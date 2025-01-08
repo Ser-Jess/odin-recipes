@@ -14,3 +14,4 @@ Use git commands to stage and commit iterations.
 Addendum: Style html with external CSS.
 
 Style is up to me. Use font and color proporties.
+CSS Font Families for typefaces.
