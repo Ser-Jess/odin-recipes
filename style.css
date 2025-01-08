@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 800;
+}
+
+ul {
+    background-color: #9cea8b;
+    color: white;
+    width: 60%;
+}
+
+.list {
+    text-align: center;
+    font: Arial;
+    background-color: #9cea8b;
+    color: white;
+}
+
+a {
+    text-align: center;
+    font: Arial;
+    background-color: #9cea8b;
+    color: white;
+}

@@ -9,3 +9,8 @@ Use headline tags with appropriate hiearchy for user readability.
 Use paragraph tags for body content. 
 Use ordered and unordered lists to enumerate ingredients and steps.
 Use git commands to stage and commit iterations.
+
+
+Addendum: Style html with external CSS.
+
+Style is up to me. Use font and color proporties.
